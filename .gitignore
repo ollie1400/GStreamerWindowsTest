@@ -1,0 +1,7 @@
+x64/
+.vscode/
+CMakeFiles/
+*ALL_BUILD*
+*ZERO_CHECK*
+CMakeCache.txt
+cmake_install.cmake
